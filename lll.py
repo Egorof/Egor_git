@@ -20,5 +20,3 @@ while running:
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_a:
                 screen.fill("#eb3459")
-
-#комментарий 
